@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Funcle Reacts',
     photo: '/photo.jpg',
-    bio: 'Pellasssasasasa odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
       email: '',
       facebook: '#',

@@ -15,18 +15,24 @@ const getContactHref = (name: string, contact: string) => {
     case 'telegram':
       href = `https://t.me/${contact}`;
       break;
-    case 'email':
-      href = `mailto:${contact}`;
-      break;
     case 'linkedin':
       href = `https://www.linkedin.com/in/${contact}`;
+      break;
+    case 'lbry':
+      href = `https://lbry.tv/${contact}`;
+    break;
+    case 'youtube':
+        href = `https://www.youtube.com/channel/${contact}`;
       break;
     case 'instagram':
       href = `https://www.instagram.com/${contact}`;
       break;
+    case 'email':
+        href = `mailto:${contact}`;
+      break;
     case 'line':
       href = `line://ti/p/${contact}`;
-      break;
+    break;
     case 'facebook':
       href = `https://www.facebook.com/${contact}`;
       break;
@@ -38,13 +44,10 @@ const getContactHref = (name: string, contact: string) => {
       break;
     case 'codepen':
       href = `https://www.codepen.io/${contact}`;
-      break;
-    case 'youtube':
-      href = `https://www.youtube.com/channel/${contact}`;
-      break;
+      break; 
     case 'soundcloud':
       href = `https://soundcloud.com/${contact}`;
-      break;
+      break; 
     default:
       href = contact;
       break;

@@ -17,6 +17,8 @@ const useSiteMetadata = () => {
                 github
                 twitter
                 telegram
+                lbry
+                youtube
                 instagram
                 email
                 rss
@@ -25,7 +27,6 @@ const useSiteMetadata = () => {
                 gitlab
                 weibo
                 codepen
-                youtube
                 soundcloud
               }
             }

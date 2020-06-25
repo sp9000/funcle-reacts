@@ -9,6 +9,6 @@ We got our name from a t-shirt that Funcle received on Christmas a few years ago
 
 ![Here we are hanging out with some of our relatives. I kinda makes you think how we even survived this long.](/media/funcle-about-us.jpg)
 
-*Here we are hanging out with some of our relatives. I kinda makes you think how we even survived this long.* :thinking:
+*Here we are hanging out with some of our relatives. I kinda makes you think how we even survived this long.* 🤔
 
 One day we were sitting around and realized that we both love watching youtube fails, so we decided to try our hand at reviewing some of the best the internet has to offer. Pretty soon, epic TikTok compilations, music videos, challenges, YLYL, LOLZ, and cringelords invaded our studio and had FUNcle teetering on the edge of insanity. Join us for reactions by following us on LBRY and Youtube. Thanks for the sub!

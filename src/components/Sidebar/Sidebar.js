@@ -1,6 +1,5 @@
 // @flow strict
 import React from 'react';
-import { render } from "react-dom";
 import Proton from 'proton-engine';
 import RAFManager from 'raf-manager';
 import ParticlesBg from 'particles-bg';

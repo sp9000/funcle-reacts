@@ -2,8 +2,8 @@
 template: page
 title: About Us
 socialImage: /media/funcle-about-us.jpg
-slug: /about-us
-draft: true
+slug: /about
+draft: false
 ---
 We got our name from a t-shirt that Funcle received on Christmas a few years ago. It was pure cringe. Luckily, we've gottten way more out of that awful t-shirt and are still riding that wave of face palm to this very day.
 

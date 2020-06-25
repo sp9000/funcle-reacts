@@ -1,13 +1,13 @@
 ---
-title: "About me"
+title: "About Us"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/funcle-about-us.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+We got our name from a t-shirt that Funcle received on Christmas a few years ago. It was pure cringe. Luckily, we've gottten way more out of that awful t-shirt and are still riding that wave of face palm to this very day.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+![Here we are hanging out with some of our relatives. I kinda makes you think how we even survived this long.](/media/funcle-about-us.jpg)
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+*Here we are hanging out with some of our relatives. I kinda makes you think how we even survived this long.*
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+One day we were sitting around and realized that we both love watching youtube fails, so we decided to try our hand at reviewing some of the best the internet has to offer. Pretty soon, epic TikTok compilations, music videos, challenges, YLYL, LOLZ, and cringelords invaded our studio and had FUNcle teetering on the edge of insanity. Join us for reactions by following us on LBRY and Youtube. Thanks for the sub!
